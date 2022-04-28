@@ -1,0 +1,32 @@
+[
+    {
+       "firstname":"Raymond",
+       "lastname":"Nguyen",
+       "age":"20",
+       "gender":"Male",
+       "major":"Computer Science",
+       "concentration":"Human Computer Interaction",
+       "hometown":"Charlotte",
+       "favoritecolor":"Blue"
+    },
+    {
+       "firstname":"Danny",
+       "lastname":"Mai",
+       "age":"20",
+       "gender":"Male",
+       "major":"Computer Science",
+       "concentration":"Cybersecurity",
+       "hometown":"Charlotte",
+       "favoritecolor":"Black"
+    },
+    {
+       "firstname":"Tim",
+       "lastname":"Nguyen",
+       "age":"21",
+       "gender":"Male",
+       "major":"Computer Engineering",
+       "concentration":"Software Development",
+       "hometown":"Saigon",
+       "favoritecolor":"Black"
+    }
+ ]
