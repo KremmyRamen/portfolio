@@ -35,12 +35,12 @@ namespace Craps //Context
                         Console.WriteLine("Invalid input. Type `y` for continue or `n` for stop");       
                     }              
 
-                Console.Write("How much do you want to 1wager: "); //Gets a wager
+                Console.Write("How much do you want to wager: "); //Gets a wager
                 Wager = int.Parse(Console.ReadLine()); //Reads the wager into the variable
                 while(Wager > Chips) //Will not accept wagers above the current chip value
                 {
                     Console.WriteLine("You do not have enough chips for that wager."); //Displays appropriate lines
-                    Console.Write("How much do you want to 2wager: ");
+                    Console.Write("How much do you want to wager: ");
                     Wager = int.Parse(Console.ReadLine());
                 }
 
